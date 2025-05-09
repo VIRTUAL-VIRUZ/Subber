@@ -44,7 +44,7 @@ Subber can detect takeover vulnerabilities in these services (and more):
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/subber.git
+git clone https://github.com/VIRTUAL-VIRUZ/Subber.git
 cd subber
 
 # Install dependencies
